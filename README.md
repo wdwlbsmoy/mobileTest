@@ -1,2 +1,1 @@
-# mobileTest
-存储app端脚本文件
+第一次使用github工具。
